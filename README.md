@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamidhajiparvaneh
-- 👀 I’m interested in Backend and Frontend developing
+- 👀 I’m interested in Backend (C# .Net Core) and Frontend (Javascript) developing
 - 🌱 I’m currently learning Golang and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hamid.hajiparvaneh@hochfrequenz.de
